@@ -1,4 +1,4 @@
-👋 Hi, I'm Amy Hoang 👾
+👋 Hi, I'm My Hoang 👾
 🌟 Welcome to my GitHub profile! 
 I'm passionate about technology and eager to contribute to innovative projects. Here's a bit about me:
 
