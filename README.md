@@ -1,10 +1,20 @@
-- 👋 Hi, I’m @amy-hoangg. You can call me Amy 👾
-- 👀 I’m interested in new technology
-- 👩‍💻 I’m currently learning Computing and Electrical Engineering in Tampere University
-- 💞️ I’m looking to collaborate some small projects
-- 📫 How to reach me: amyishere0602@gmail.com or my IG: amy._.o.o
+👋 Hi, I'm Amy Hoang 👾
+🌟 Welcome to my GitHub profile! 
+I'm passionate about technology and eager to contribute to innovative projects. Here's a bit about me:
 
-<!---
-amy-hoangg/amy-hoangg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👩‍💻 Education:
+Currently pursuing a degree in Computing and Electrical Engineering at Tampere University, specializing in software development with a minor in Industrial Management.
+
+🚀 Skills:
+Programming Languages: Python, SQL, C++, Matlab, Javascript, Java
+Web Development: HTML, CSS, jQuery, Bootstrap
+Tools & Platforms: Linux, SASS, Dash, Bokeh, Panel, GIT, Tiger VNC, Visual Studio Code, QT Creator, Pycharm
+GUI Development: Node.JS, RESTful API, React, Jest, GraphQL
+
+📫 Contact:
+Reach out to me at my.hoang@tuni.fi. I'm always open to networking and new opportunities.
+🌐 LinkedIn: https://www.linkedin.com/in/amyishere0602/
+
+Let's connect and create amazing technology solutions! 🚀🌟
+
+
