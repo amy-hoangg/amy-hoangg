@@ -3,7 +3,7 @@
 I'm passionate about technology and eager to contribute to innovative projects. Here's a bit about me:
 
 👩‍💻 Education:
-Currently pursuing a degree in Computing and Electrical Engineering at Tampere University, specializing in software development with a minor in Industrial Management.
+Currently pursuing a degree in Computing and Electrical Engineering at Tampere University, specializing in Software Development with a minor in Industrial Management.
 
 🚀 Skills:
 Programming Languages: Python, SQL, C++, Matlab, Javascript, Java
