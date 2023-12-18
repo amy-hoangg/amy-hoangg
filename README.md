@@ -9,7 +9,7 @@ Currently pursuing a degree in Computing and Electrical Engineering at Tampere U
 Programming Languages: Python, SQL, C++, Matlab, Javascript, Java
 Web Development: HTML, CSS, jQuery, Bootstrap
 Tools & Platforms: Linux, SASS, Dash, Bokeh, Panel, GIT, Tiger VNC, Visual Studio Code, QT Creator, Pycharm
-GUI Development: Node.JS, RESTful API, React, Jest, GraphQL
+GUI Development: Node.JS, RESTful API, React, Jest, GraphQL, Java, JavaFX
 
 📫 Contact:
 Reach out to me at my.hoang@tuni.fi. I'm always open to networking and new opportunities.
